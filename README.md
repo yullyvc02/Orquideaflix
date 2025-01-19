@@ -20,7 +20,6 @@
 <li>Agregar nuevos videos utilizando la opción "Nuevo video".</li>
 <li>Visualización de videos en otra pestaña mediante el botón "Ver video".</li>
 <li>Eliminación de videos al hacer clic en el botón "Borrar".</li>
-<li>La aplicación está diseñada para ser responsiva, garantizando una experiencia de usuario fluida en diferentes dispositivos y tamaños de pantalla.</li>
 </ul>
 
 
