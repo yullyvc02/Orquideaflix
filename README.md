@@ -1,7 +1,7 @@
 <h1 align="center"> Proyecto Orquídea flix </h1>
 
 <p align="center">
-//<img src="https://github.com/yullyvc02/Orquideaflix/blob/main/public/orchid.svg" alt="Imagen de una orquídea">
+<img src="https://github.com/yullyvc02/Orquideaflix/blob/main/public/orchid.svg" alt="Imagen de una orquídea">
 </p>
 
 
@@ -18,7 +18,7 @@
 <li>Navegación por categorías de orquídeas.</li>
 <li>Edición de videos mediante el botón "Editar".</li>
 <li>Agregar nuevos videos utilizando la opción "Nuevo video".</li>
-<li>Visualización de videos en otra pestaña mediante el botón "Ver video" .</li>
+<li>Visualización de videos en otra pestaña mediante el botón "Ver video".</li>
 <li>Eliminación de videos al hacer clic en el botón "Borrar".</li>
 <li>La aplicación está diseñada para ser responsiva, garantizando una experiencia de usuario fluida en diferentes dispositivos y tamaños de pantalla.</li>
 </ul>
