@@ -16,7 +16,7 @@
 <li>Barra superior con los botones "Home" y "Nuevo video".</li>
 <li>Selector de tema claro/oscuro, con opciones de colores púrpura claro y oscuro.</li>
 <li>Navegación por categorías de orquídeas.</li>
-<li>Edición de videos mediante el botón "Editar"./li>
+<li>Edición de videos mediante el botón "Editar".</li>
 <li>Agregar nuevos videos utilizando la opción "Nuevo video".</li>
 <li>Visualización de videos en otra pestaña mediante el botón "Ver video" .</li>
 <li>Eliminación de videos al hacer clic en el botón "Borrar".</li>
