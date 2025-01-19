@@ -30,7 +30,7 @@
 <ul>
 <li>Haz clic en el botón "Editar".</li>
 <li>Se abrirá un formulario llamado Editar card, donde podrás realizar las siguientes acciones:</li>
-Escribir el título.</li>
+<li>Escribir el título.</li>
 <li>Escoger la categoría.</li>
 <li>Pegar los enlaces de la imagen y del video.</li>
 <li>Incluir una pequeña descripción.</li>
